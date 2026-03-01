@@ -16,6 +16,6 @@ To interpret the user's needs, I looked over the business requiremnts and transl
 activity flows, and system interations. Keeping the customer's needs in mind is crucial because a system that doesn't meet the customer's expecations will fail regardless of how good technically the system is.
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-When I design software, I first focus on clearly identifying the system requirements. I model the system using UML diagrams before looking at implentation. This lets me identify logic gaps, security concerns,
+When I design software, I first focus on clearly identifying the system requirements. I model the system using UML diagrams before looking at implementation. This lets me identify logic gaps, security concerns,
 and potential improvements early in the design phase. In the future, I plan to continue using modeling techniques, stakeholder analysis, and consistent feedback to make sure that the systems are functional and
 reliable.
